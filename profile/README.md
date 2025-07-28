@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 所思笔记App
+### 所思笔记App
 记录白天的所思和晚上的梦
 
 日思梦析，重塑自我
@@ -13,6 +13,8 @@
 
 简单记录，深度洞察，从「思与梦」的联结里，遇见更好的自己~
 
-App Store：[所思笔记](https://apps.apple.com/cn/app/id1668533045)
-小红书：[所思笔记](https://www.xiaohongshu.com/user/profile/59ba28cf5e87e72d410d84c1?xsec_token=AB30zWBK_0aV-ZUCM83QvBmK-NpGqRBEeyP_YRSvjVuoI%3D&xsec_source=pc_search)
+
+### 联系我
+- App Store：[所思笔记](https://apps.apple.com/cn/app/id1668533045)
+- 小红书：[所思笔记](https://www.xiaohongshu.com/user/profile/59ba28cf5e87e72d410d84c1?xsec_token=AB30zWBK_0aV-ZUCM83QvBmK-NpGqRBEeyP_YRSvjVuoI%3D&xsec_source=pc_search)
 
